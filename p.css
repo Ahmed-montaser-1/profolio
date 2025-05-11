@@ -1,0 +1,157 @@
+body{
+    background-image: url(cyber-brain-7633488_1280.jpg);
+    background-position: center;
+    background-attachment:local;
+    overflow-x: hidden;
+    padding: 0%;
+    margin: 0%;
+   
+}
+.div1{
+    background-color: black;
+    line-height: 1;
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+}
+h1{
+    color:rgb(34, 80, 206);
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 4px 4px 8px rgb(204, 194, 194);
+
+}
+p{
+    color: white;
+}
+img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    border: 2px solid rgb(34, 80, 206);
+    position: relative;
+    bottom: 620px;
+    left: 30px;
+}
+
+h2{
+    color:rgb(34, 80, 206);
+    text-align: center;
+    font-size: 33px;
+    text-shadow: 1px 1px 2px rgb(204, 194, 194);
+   
+}
+.div-contact{
+    background-color: black;
+    line-height: 0;
+    box-sizing: border-box;
+    position: relative;
+    top: 20px;
+   
+   
+
+}
+.h2-contact{
+    position: relative;
+    top: 15px;
+}
+.city{
+    position: relative;
+    left: 300px;
+    top: 15px;
+   
+}
+.email{
+    position: relative;
+    left: 500px;
+    
+}
+.phone{
+position: relative;
+left: 900px;
+bottom: 17px;
+}
+.div-me{
+    background-color: black;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+
+
+}
+.p-me{
+    position: relative;
+    bottom: 20px;
+}
+.div-loca{
+    background-color: black;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    align-items: center;
+    position: relative;
+    top: 10px;
+    
+}
+.p-loca{
+    position: relative;
+    left: 430px;
+    bottom: 16px; 
+}
+.div-lang{
+    background-color: black;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    align-items: center;
+    position: relative;
+    top: 63px;
+    
+}
+.p-lang{
+    font-size: 17px;
+    position: relative;
+    left: 485px;
+    bottom: 17px;
+}
+.div-skils{
+    background-color: black;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    align-items: center;
+    position: relative;
+    top: 125px;
+
+    
+    
+
+}
+.p-skils{
+    position: relative;
+    left: 280px;
+    bottom: 20px;
+}
+.div-project{
+    background-color: black;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    align-items: center;
+    position: relative;
+    top: 180px;
+}
+.p-project{
+    position: relative;
+    left:70px;
+    bottom: 15px;
+}
+
